@@ -1,0 +1,21 @@
+{
+  "questions": [
+    {
+      "title": "The Ultimate quiz",
+      "category": "MATCH",
+      "prompt": "Match the following countries to their capital",
+      "matching_interaction": {
+        "left": [
+          { "id": "1", "content": "USA" },
+          { "id": "2", "content": "France" }
+        ],
+        "right": [
+          { "id": "a", "content": "Paris" },
+          { "id": "b", "content": "London" },
+          { "id": "c", "content": "Washington D.C." }
+        ]
+      },
+      "answers": ["1Washington D.C.", "2Paris"]
+    }
+  ]
+}
